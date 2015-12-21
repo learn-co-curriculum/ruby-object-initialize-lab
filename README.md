@@ -18,7 +18,7 @@ Open this lab with `learn open` and run the tests with `learn`.
 
 Define a `Person` class in `lib/person.rb` that provides an `#initialize` method that accepts an argument for the person's name. That argument should be stored within a `@name` instance variable.
 
-#### 2. `Dog#initialize` with Name and Breed defaulting to "Mut"
+#### 2. `Dog#initialize` with Name and Breed defaulting to "Mutt"
 
 Define a `Dog` class in `lib/dog.rb` that provides an `#initialize` method that accepts an argument for the dog's name. That argument should be stored within a `@name` instance variable.
 
