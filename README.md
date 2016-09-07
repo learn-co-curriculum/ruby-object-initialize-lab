@@ -22,8 +22,10 @@ Define a `Person` class in `lib/person.rb` that provides an `#initialize` method
 
 Define a `Dog` class in `lib/dog.rb` that provides an `#initialize` method that accepts an argument for the dog's name. That argument should be stored within a `@name` instance variable.
 
-Additionally, `Dog#initialize` should accept a second optional argument for the dog's breed stored in an instance variable `@breed`. When none is provided, it should default to "Mutt".
+Additionally, `Dog#initialize` should accept a second optional argument for the dog's breed stored in an instance variable `@breed`. When none is provided, it should default to "Mutt". <--- spelled mut in Spec
 
 Submit your solution with `learn submit`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-object-initialize-lab' title='Ruby Object Initialize Lab'>Ruby Object Initialize Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-object-initialize-lab'>Object Initialization Lab</a> on Learn.co and start learning to code for free.</p>
